@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python, R, 
 - 💞️ I’m looking to collaborate on learning new things
 - 📫 How to reach me ... xxx
+- 🏕 The outdoors is cool ...
 
 <!---
 suziq404/suziq404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
