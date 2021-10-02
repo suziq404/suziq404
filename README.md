@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suziq404
-- 👀 I’m interested in security and data science
+- 👀 I’m interested in security and data analysis & scientific research
 - 🌱 I’m currently learning Python, R, 
 - 💞️ I’m looking to collaborate on learning new things
 - 📫 How to reach me ... xxx
